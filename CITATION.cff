@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the associated journal article and this repository."
+title: "Empirical Evidence for the Kolmogorov–Arnold–Siddarth Sampling Theorem"
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+
+authors:
+  - family-names: Laxminarayanan
+    given-names: Siddarth
+
+repository-code: https://github.com/XXJanusXX/KAS
+
+keywords:
+  - sampling theory
+  - RF signal processing
+  - Kolmogorov–Arnold networks
+  - functional approximation
+  - stochastic processes
+  - signal functionals
+
+preferred-citation:
+  type: article
+  title: "Kolmogorov–Arnold–Siddarth Sampling Theorem for Stochastic RF Functionals"
+  authors:
+    - family-names: Laxminarayanan
+      given-names: Siddarth
+  year: 2026
+  journal: "<Journal Name>"
