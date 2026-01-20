@@ -1,4 +1,8 @@
-No external scripts, datasets, or preprocessing steps are required.
+# Kolmogorov–Arnold–Siddarth Sampling Theorem (KAS)
+### Reproducible Empirical Evidence Repository
+
+This repository contains the complete, executable empirical evidence supporting the **Kolmogorov–Arnold–Siddarth (KAS) Sampling Theorem**.  
+All simulations, figures, tables, and appendix-level validations reported in the accompanying manuscript are generated from a **single Jupyter notebook**, ensuring transparency, traceability, and full reproducibility.
 
 What This Repository Contains
 
@@ -52,3 +56,24 @@ Siddarth Laxminarayanan
 Author, Kolmogorov–Arnold–Siddarth Sampling Theorem
 
 For questions related to reproducibility or review, please use the GitHub issue tracker.
+---
+
+## Repository Structure (Single Source of Truth)
+
+```text
+KAS/
+├── KAS_Evidence.ipynb     # Complete empirical evidence:
+│                         # • Section 4 — Research Methodology
+│                         # • Section 5 — Results (Observables O1–O6)
+│                         # • Section 6 — Discussion
+│                         # • Figures (fixed numbering)
+│                         # • Tables A.X / A.Xb
+│                         # • Appendix A empirical validation
+│
+├── CITATION.cff           # Machine-readable citation metadata
+│                         # (GitHub / Zenodo compatible)
+│
+├── README.md              # Reproducibility and reviewer guidance
+
+No external scripts, datasets, or preprocessing steps are required.
+
