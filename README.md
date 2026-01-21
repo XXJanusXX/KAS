@@ -16,6 +16,7 @@ All figures and tables are generated **at runtime inside the Jupyter notebook**.
 - LICENSE  
 - CITATION.cff  
 - KAS_Evidence.ipynb  
+- kas-sampling-theorem-appendix
 
 No additional scripts, datasets, or binaries are included or required.
 
@@ -137,7 +138,7 @@ For questions related to reproducibility or review, please use the GitHub issue 
 
 ```text
 KAS/
-├── KAS_Evidence.ipynb     # Complete empirical evidence:
+├── KAS_Evidence.ipynb    # Complete empirical evidence:
 │                         # • Section 4 — Research Methodology
 │                         # • Section 5 — Results (Observables O1–O6)
 │                         # • Section 6 — Discussion
